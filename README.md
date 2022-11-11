@@ -5,11 +5,15 @@ Requires a set of aws credentials set up in the aws credentials file with the pr
 
 Deploy from the CLI
 
-```sam deploy --region eu-west-1 --profile aws-sam-practice-app --stack-name aws-sam-practice-app --resolve-s3 --capabilities CAPABILITY_IAM```
+```
+sam deploy --region eu-west-1 --profile aws-sam-practice-app --stack-name aws-sam-practice-app --resolve-s3 --capabilities CAPABILITY_IAM
+```
 
 Destroying from the CLI
 
-``` sam delete --stack-name aws-sam-practice-app --profile aws-sam-practice-app```
+```
+sam delete --stack-name aws-sam-practice-app --profile aws-sam-practice-app
+```
 
 `# Architecture
 
