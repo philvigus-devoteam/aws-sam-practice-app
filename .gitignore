@@ -35,3 +35,5 @@ Footer
 
 ### AWS SAM ###
 .aws-sam
+
+.DS_Store
