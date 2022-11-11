@@ -15,6 +15,6 @@ Destroying from the CLI
 sam delete --stack-name aws-sam-practice-app --profile aws-sam-practice-app
 ```
 
-`# Architecture
+# Architecture
 
 !["AWS Architecture"](./aws-sam-cropped.png)
