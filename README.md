@@ -16,7 +16,7 @@ sam delete --stack-name aws-sam-practice-app --profile aws-sam-practice-app
 
 # Architecture
 
-!["AWS Architecture"](./aws-sam-cropped.png)
+!["AWS Architecture"](./architecture.png)
 
 ## Spring Boot App with GraphQL Endpoint
 
